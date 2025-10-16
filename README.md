@@ -1,16 +1,16 @@
-## Hi there 👋
+✨ This account is for projects in the Go language
+If you're interested in my projects in other programming languages, you can view them in my second account: https://github.com/mnzvdnr
 
-<!--
-**DtIeNaAcRhA/DtIeNaAcRhA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: https://t.me/mnzvdnr
 
-Here are some ideas to get you started:
+⚡ Stack:
+- Go (Golang)/Python/SQL/C#
+- PostgreSQL/SQLite/MS SQL Server, ORM
+- Git, GitHub
+- HTTP/HTTPS
+- REST, API
+- Docker, Docker Compose, CI/CD
+- Unit Testing (testing, assert, require)
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
