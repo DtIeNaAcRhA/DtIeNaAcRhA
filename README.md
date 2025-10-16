@@ -3,7 +3,9 @@ If you're interested in my projects in other programming languages, you can view
 
 📫 How to reach me: https://t.me/mnzvdnr
 
-⚡ Stack:
+⚡ LeetCode: https://leetcode.com/u/mnzvdnr/
+
+🛠  Stack:
 - Go (Golang)/Python/SQL/C#
 - PostgreSQL/SQLite/MS SQL Server, ORM
 - Git, GitHub
